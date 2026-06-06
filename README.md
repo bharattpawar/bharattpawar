@@ -4,15 +4,8 @@
 
 </div>
 
-```
-still coding at 04:00 AM.
-not for clout. just because there's more to build.
-```
-
-<br/>
-
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=15&duration=3500&pause=1500&color=8BA7C7&center=true&vCenter=true&width=500&lines=real-time+systems+that+don't+break.;ai+workflows+nobody+asked+for+(yet).;backend+first%2C+always.;currently%3A+building+in+the+dark."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=15&duration=3500&pause=1500&color=8BA7C7&center=true&vCenter=true&width=500&lines=real-time+systems.;ai+tooling+%2B+backend+engineering.;Node.js+%7C+React+%7C+WebSockets+%7C+Redis.;distributed+systems+%2B+LLM+workflows."/>
 </div>
 
 ---
@@ -136,11 +129,6 @@ not for clout. just because there's more to build.
 ---
 
 <div align="center">
-
-```
-// BCA · Amrapali University · 2023–2026
-// Haldwani, Uttarakhand
-```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,50:0f1923,100:0d1117&section=footer&reversal=false"/>
 
