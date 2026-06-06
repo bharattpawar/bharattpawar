@@ -48,6 +48,13 @@
 
 <br/>
 
+**`system-design-studio`** &nbsp;·&nbsp; *at STRIKE — Coder Army*
+> Interactive system design platform — users input any problem, build full architecture models, explain backend design end-to-end
+> Live capacity estimation with adjustable user load · LLM-powered review & scoring · final analysis with detailed feedback
+> `Node.js` `React` `LLM` `WebSocket`
+
+<br/>
+
 **`dev-team`** &nbsp;·&nbsp; *Nov 2025* &nbsp;·&nbsp; AI Dev System
 > Single product requirement → fully scaffolded full-stack app in an isolated Docker sandbox
 > LangGraph multi-agent pipeline · Mission Control server · human-in-the-loop React dashboard
