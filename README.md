@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:0f1923,100:0d1117&text=Bharat%20Pawar&fontColor=8ba7c7&fontSize=48&fontAlignY=38&desc=full%20stack%20%2F%2F%20ai%20systems%20%2F%2F%20backend&descColor=4a6580&descSize=16&descAlignY=58&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,40:111927,80:0f1c2a,100:0d1117&text=Bharat%20Pawar&fontColor=8ba7c7&fontSize=52&fontAlignY=40&fontAlign=50&desc=full%20stack%20%2F%2F%20ai%20systems%20%2F%2F%20backend%20engineering&descColor=3d5a73&descSize=15&descAlignY=60&descAlign=50&animation=fadeIn&stroke=1a2e42&strokeWidth=1"/>
 
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=15&duration=3500&pause=1500&color=8BA7C7&center=true&vCenter=true&width=500&lines=real-time+systems.;ai+tooling+%2B+backend+engineering.;Node.js+%7C+React+%7C+WebSockets+%7C+Redis.;distributed+systems+%2B+LLM+workflows."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=14&duration=4000&pause=2000&color=6A93B0&center=true&vCenter=true&width=560&lines=full+stack+developer+%2F%2F+ai+systems+%2F%2F+backend;real-time+systems+%7C+distributed+architecture;Node.js+%7C+React+%7C+WebSockets+%7C+Redis+%7C+Kafka;LangGraph+%7C+LLMs+%7C+RAG+%7C+Docker+%7C+AWS"/>
 </div>
 
 ---
@@ -15,14 +15,14 @@
 ## `$ whoami`
 
 &nbsp;&nbsp;&nbsp;**Full Stack Developer** at [**STRIKE** — Coder Army](https://www.coderarmy.in/)
-&nbsp;&nbsp;&nbsp;Building systems that run quietly and scale without drama.
 
 &nbsp;&nbsp;&nbsp;→ &nbsp;Judge0-based code execution engine — 1000+ students, 4+ languages
 &nbsp;&nbsp;&nbsp;→ &nbsp;AI chatbot with real-time code analysis & contextual guidance
+&nbsp;&nbsp;&nbsp;→ &nbsp;Interactive system design platform — architecture modelling, capacity estimation, LLM review & scoring
 &nbsp;&nbsp;&nbsp;→ &nbsp;JWT + RBAC securing 5000+ sessions
 &nbsp;&nbsp;&nbsp;→ &nbsp;45% backend perf boost via MongoDB indexing + caching
 
-&nbsp;&nbsp;&nbsp;Interests: distributed systems · WebSockets · LLM tooling · DSA · system design · clean architecture
+&nbsp;&nbsp;&nbsp;distributed systems · WebSockets · LLM tooling · DSA · system design · clean architecture
 
 <br/>
 
@@ -137,6 +137,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,50:0f1923,100:0d1117&section=footer&reversal=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,40:0f1923,80:111927,100:0d1117&section=footer&reversal=true"/>
 
 </div>
