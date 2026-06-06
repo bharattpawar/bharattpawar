@@ -1,117 +1,8 @@
 <div align="center">
 
-# Bharat Pawar
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,100:161b22&text=Bharat%20Pawar&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Systems%20%7C%20Backend%20Engineering&descAlignY=55&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Building+Real+Time+Systems;AI+%2B+Backend+Engineering;DSA+%7C+System+Design" />
-
-</div>
-
----
-
-## About
-
-Building scalable backend systems, real-time applications, and AI-powered products.
-
-Currently working on systems involving WebSockets, distributed communication, AI workflows, and developer tooling.
-
-No overengineered noise.  
-Just clean architecture and things that work.
-
----
-
-## Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,next,nodejs,express,mongodb,postgres,redis,docker,aws,git,github,tailwind,vscode" />
-
-</div>
-
----
-
-## Current Focus
-
-- Real-time systems
-- AI integrations and workflows
-- Backend architecture
-- System Design (HLD/LLD)
-- DSA & problem solving
-
----
-
-## Featured Projects
-
-### Dev-Team — AI Development System
-AI-powered multi-agent system that converts product requirements into fully scaffolded applications using LangGraph workflows, Docker sandboxes, and real-time event streaming.
-
-### Real-time Community Platform
-Built scalable communities with channels, voice/video communication, authentication, Kafka pipelines, and AI-powered discovery.
-
-### Re-Build
-AI-based learning platform with streak tracking, real-time collaboration, analytics, and distributed synchronization.
-
-### Judge0-based Code Execution System
-Self-hosted code execution infrastructure supporting multiple languages with secure execution and real-time compilation.
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bharattpawar&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharattpawar&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" />
-
-</div>
-
----
-
-## Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=bharattpawar&theme=github-dark&hide_border=true&background=00000000" />
-
-</div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bharattpawar&theme=github-dark&hide_border=true&bg_color=00000000" />
-
-</div>
-
----
-
-## Snake Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/bharattpawar/bharattpawar/output/snake.svg" alt="snake animation" />
-
-</div>
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="https://github.com/bharattpawar">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/bharat-pawar-527243293">
-  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:bharat1234512345777@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=850&lines=Building+real-time+systems...;AI+workflows+%2B+backend+engineering;Node.js+%7C+React+%7C+WebSockets+%7C+Redis;DSA+%7C+System+Design+%7C+Problem+Solving"/>
 
 </div>
 
@@ -119,10 +10,32 @@ Self-hosted code execution infrastructure supporting multiple languages with sec
 
 <div align="center">
 
-```cpp
-while(alive){
-    learn();
-    build();
-    improve();
-}
+### Building things that scale quietly.
+
 </div>
+
+- Full Stack Developer at **Coder Army (STRIKE)**
+- Focused on backend systems, AI tooling, and real-time architecture
+- Working with distributed systems, WebSockets, Docker, Redis, PostgreSQL, MongoDB, and LLM workflows
+- Into DSA, system design, clean engineering, and building products from scratch
+
+---
+
+# Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,nodejs,express,mongodb,postgres,redis,docker,aws,git,github,tailwind,vscode&perline=8" />
+
+</div>
+
+---
+
+# What I'm Working On
+
+```txt
+> Real-time communication systems
+> AI-powered developer tools
+> Distributed backend architecture
+> Scalable APIs and auth systems
+> System Design + DSA
