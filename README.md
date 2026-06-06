@@ -14,11 +14,11 @@
 
 ## `$ whoami`
 
-&nbsp;&nbsp;&nbsp;**Full Stack Developer** at [**STRIKE** — Coder Army](https://www.coderarmy.in/)
+&nbsp;&nbsp;&nbsp;**Full Stack Developer** at [**STRIKE**   Coder Army](https://www.coderarmy.in/)
 
-&nbsp;&nbsp;&nbsp;→ &nbsp;Judge0-based code execution engine — 1000+ students, 4+ languages
+&nbsp;&nbsp;&nbsp;→ &nbsp;Judge0-based code execution engine   1000+ students, 4+ languages
 &nbsp;&nbsp;&nbsp;→ &nbsp;AI chatbot with real-time code analysis & contextual guidance
-&nbsp;&nbsp;&nbsp;→ &nbsp;Interactive system design platform — architecture modelling, capacity estimation, LLM review & scoring
+&nbsp;&nbsp;&nbsp;→ &nbsp;Interactive system design platform   architecture modelling, capacity estimation, LLM review & scoring
 &nbsp;&nbsp;&nbsp;→ &nbsp;JWT + RBAC securing 5000+ sessions
 &nbsp;&nbsp;&nbsp;→ &nbsp;45% backend perf boost via MongoDB indexing + caching
 
@@ -48,8 +48,8 @@
 
 <br/>
 
-**`system-design-studio`** &nbsp;·&nbsp; *at STRIKE — Coder Army*
-> Interactive system design platform — users input any problem, build full architecture models, explain backend design end-to-end
+**`system-design-studio`** &nbsp;·&nbsp; *at STRIKE   Coder Army*
+> Interactive system design platform   users input any problem, build full architecture models, explain backend design end-to-end
 > Live capacity estimation with adjustable user load · LLM-powered review & scoring · final analysis with detailed feedback
 > `Node.js` `React` `LLM` `WebSocket`
 
